@@ -4,3 +4,4 @@ Modificare il numero in esadecimale dell' ID I2C nel file bmm150_defs.h della li
 Compass on M5Stack BMM150 Change the hexadecimal number of the I2C ID in the library file bmm150_defs.h
 https://github.com/Seeed-Studio/Grove_3_Axis_Compass_V2.0_BMM150
 https://docs.m5stack.com/#/en/core/gray
+https://rosolinoblog.wordpress.com/2020/02/01/m5stack-bmm150-compass/
